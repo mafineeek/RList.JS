@@ -7,7 +7,7 @@ module.exports = class Bot extends EventEmitter{
     /**
      * 
      * @param {String} token Server-side generated token, can be found in Edit page of bot on list.r0adster.live 
-     * @param {*} id Discord ID of bot account.
+     * @param {String} id Discord ID of bot account.
      */
 
     constructor(token, id){

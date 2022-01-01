@@ -1,7 +1,7 @@
 {
   "name": "roadsterlist-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Library to wrap around list.r0adster.live API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
