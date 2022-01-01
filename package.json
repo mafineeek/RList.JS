@@ -1,0 +1,16 @@
+{
+  "name": "roadsterlist-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "mafineeek",
+  "license": "ISC",
+  "dependencies": {
+    "events": "^3.3.0",
+    "node-fetch": "^2.6.6"
+  }
+}
